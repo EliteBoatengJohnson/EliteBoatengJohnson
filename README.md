@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliteBoatengJohnson
 - studying computer science at university of Ghana
-- 🌱 I’m currently aentrolled in Herberton school for 12 months software development course
+- 🌱 I’m currently aentrolled in Horberton school for 12 months software development course
 - 💞️ I’m looking to collaborate on ...
 - 📫 boatengjohnson124@gmail.com
 
