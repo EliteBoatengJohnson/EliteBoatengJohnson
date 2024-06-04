@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EliteBoatengJohnson
-- studying computer science at university of Ghana
-- 🌱 I’m currently enrolled in Horberton school for 12 months software development course
-- 💞️ I’m looking to collaborate on ...
+-    Security Engineer CALBANK PLC
+- 💞️ I’m looking to collaborate on opensouce Pojects
 - 📫 boatengjohnson124@gmail.com
 
 <!---
