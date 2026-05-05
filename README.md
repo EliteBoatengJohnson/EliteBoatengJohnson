@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EliteBoatengJohnson
 -    Security Engineer CALBANK PLC  and IT contol Officer Consolidated Bank Ghana
+-    Aspiring Application Security Engineer
 - 💞️ I’m looking to collaborate on opensouce Pojects
 - 📫 boatengjohnson124@gmail.com
 
